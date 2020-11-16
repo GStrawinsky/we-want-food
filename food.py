@@ -7,6 +7,10 @@ def run(args):
     meals = retrieval.give_meals(args.file, args.meals)
     for meal in meals:
         print(meal)
+        if args.ingredients:
+            ingredients = retrieval.give_ingredients(args.file, meal)
+            for ingredient in ingredients:
+                print("\t--" + ingredient)
 
 
 def validate(args):
@@ -25,6 +29,8 @@ if __name__ == "__main__":
                         metavar="I", help="Should prompt be interactive")
     parser.add_argument("-f", "--file", type=str, default="meals.json",
                         help="Path to the meals file")
+    parser.add_argument("-g", "--ingredients", type=bool,
+                        help="Show ingredients")
 
     args = parser.parse_args()
     validate(args)
