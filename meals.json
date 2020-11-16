@@ -1,0 +1,31 @@
+{
+    "Stir-fry": {
+      "rice": "150g",
+      "tofu": "200g"
+    },
+
+    "Fish bake": {
+        "Salmon": "200g",
+        "Potatoes": "200g"
+    },
+
+    "Fish bake2": {
+        "Salmon": "200g",
+        "Potatoes": "200g"
+    },
+
+    "Fish bake3": {
+        "Salmon": "200g",
+        "Potatoes": "200g"
+    },
+
+    "Pie": {
+        "Salmon": "200g",
+        "Potatoes": "200g"
+    },
+
+    "Cocktail": {
+        "Salmon": "200g",
+        "Potatoes": "200g"
+    }
+  }
