@@ -29,7 +29,7 @@ if __name__ == "__main__":
                         metavar="I", help="Should prompt be interactive")
     parser.add_argument("-f", "--file", type=str, default="meals.json",
                         help="Path to the meals file")
-    parser.add_argument("-g", "--ingredients", type=bool,
+    parser.add_argument("-g", "--ingredients", action="store_true",
                         help="Show ingredients")
 
     args = parser.parse_args()
