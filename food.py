@@ -1,9 +1,11 @@
 import argparse
 import sys
+import retrieval
 
 
 def run(args):
-    pass
+    our_meals = retrieval.give_meals(args.file, args.meals)
+    print(our_meals)
 
 
 def validate(args):
