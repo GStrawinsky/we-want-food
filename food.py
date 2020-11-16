@@ -4,8 +4,9 @@ import retrieval
 
 
 def run(args):
-    our_meals = retrieval.give_meals(args.file, args.meals)
-    print(our_meals)
+    meals = retrieval.give_meals(args.file, args.meals)
+    for meal in meals:
+        print(meal)
 
 
 def validate(args):
