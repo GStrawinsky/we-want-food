@@ -1,31 +1,127 @@
 {
     "Stir-fry": {
-      "rice": "150g",
-      "tofu": "200g"
+      "Rice": "150g",
+      "Tofu": "200g",
+      "Cabbage": 1,
+      "Carrot": 2,
+      "Broccoli": 0.3
     },
 
     "Fish bake": {
         "Salmon": "200g",
-        "Potatoes": "200g"
+        "Potatoes": "200g",
+        "Sweet potatoes": "200g",
+        "leak": 1,
+        "Passata": "250g"
     },
 
-    "Fish bake2": {
-        "Pig": "200g",
-        "Potatoes": "200g"
+    "Red shakshuka": {
+        "Eggs": 4,
+        "Paprika": 1,
+        "Lentils": "100g",
+        "Onion": 1,
+        "Garlic cloves": 2,
+        "Passata": "250g"
     },
 
-    "Fish bake3": {
-        "Frog": "200g",
-        "Potatoes": "200g"
+    "Vegan Burgers": {
+        "Vegan patties": 2,
+        "Buns": 2,
+        "Onions": 1,
+        "Some sauce": "2 tbs",
+        "Cheese": "80g",
+        "Sweet potatoes": "500g"
     },
 
-    "Pie": {
-        "Me": "200g",
-        "Potatoes": "200g"
+    "Nachos": {
+        "Nacho chips": "1 pack",
+        "Kidney beans": "1 can",
+        "Passata": "250g",
+        "Avocado": 1,
+        "Tomatoe": 1,
+        "Onion": 2, 
+        "Vegan mince": "Optional - 200g",
+        "Cheese": "80g"
     },
 
-    "Cocktail": {
-        "Eavan": "200g",
-        "Potatoes": "200g"
+    "Bolognese": {
+        "Pasta": "150g",
+        "Vegan mince": "200g",
+        "Passata": "250g",
+        "Onion": 1,
+        "Carrot": "200g"
+    },
+
+    "Chili no carne": {
+        "Rice": "150g",
+        "Vegan mince": "200g",
+        "Passata": "250g",
+        "Onion": 1,
+        "Carrot": "200g",
+        "Kidney beans": "1 can"
+    },
+    
+    "Saag tofu": {
+        "Spinach": "300g",
+        "Tofu": "200g",
+        "Potatoes": "250g",
+        "Onion": 1,
+        "Rice": "150g",
+        "Coconut milk": "200g"
+    },
+
+    "Dahl": {
+        "Naan": 2,
+        "Red lentils": "100g",
+        "Passata": "250g",
+        "Onion": 1,
+        "Sweet potatoes": "200g",
+        "Coconut milk": "200g"
+    },
+
+    "Fake ramen": {
+        "Noodles": "100g",
+        "Tofu": "200g",
+        "Passata": "50g",
+        "Sweet potatoes": "200g",
+        "Broccoli": 0.3,
+        "Coconut milk": "100g",
+        "Eggs": 2
+    },
+
+    "Chicken Tikka Masala": {
+        "Chicken": "200g",
+        "Rice": "150g",
+        "Passata": "250g",
+        "Onion": 1,
+        "Coconut milk": "200g",
+        "Yoghurt": "100g"
+    },
+
+    "Crispy chilli tofu": {
+        "Tofu": "300g",
+        "Pineapple": "1 can",
+        "Passata": "100g",
+        "Pineapple juice": "300ml",
+        "Paprika": 1
+    },
+
+    "Fajitas": {
+        "Wraps": 4,
+        "Paprika": 2,
+        "Kidney beans": "1 can",
+        "Rice": "150g",
+        "Avocado": 1,
+        "Onion": 1,
+        "Tomatoes": 1
+    },
+
+    "Rissoto": {
+        "Arborio rice": "150g",
+        "Vegan sausage": 2,
+        "Fennel": 1,
+        "Soya cream": "150g",
+        "Cheese": "80g",
+        "Onion/leak": 1
     }
   }
