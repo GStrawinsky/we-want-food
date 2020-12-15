@@ -9,8 +9,8 @@ def run(args):
         print(meal)
         if args.ingredients:
             ingredients = retrieval.give_ingredients(args.file, meal)
-            for ingredient in ingredients:
-                print("\t--" + ingredient)
+            for ingredient, quantity in ingredients.items():
+                print("\t--{}: {}".format(ingredient, quantity))
 
 
 def validate(args):
