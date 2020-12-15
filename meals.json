@@ -160,7 +160,8 @@
       "Onion": "1",
       "Garlic": "1",
       "White fish": "2 pieces",
-      "Orzo pasta": "170g"
+      "Orzo pasta": "170g",
+      "Courgette or paprika": "1"
     },
 
   "Pasta with Salmon": {
@@ -190,6 +191,7 @@
         "Green beans": "200g",
         "Passata": "200g",
         "Rice": "170g",
+        "Courgette": "1",
         "Chicken or vegan equivalent": "200g"
       } 
 }
