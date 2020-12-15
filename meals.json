@@ -123,5 +123,77 @@
         "Soya cream": "150g",
         "Cheese": "80g",
         "Onion/leak": 1
-    }
+    },
+  
+    "Kotlet": {
+        "Sweet potates": "500g",
+        "Potatoes": "200g",
+        "Garlic": "1 clove",
+        "Svogunu laiskai": "4 roots",
+        "Green beens": "300g",
+        "Vegan or meat kotlet": "2 pieces"
+    },
+
+  "Green shakshuka": {
+      "Onions": "1",
+      "Garlic": "2 pieces",
+      "Green paprika": "1",
+      "Lentils": "100g dry or 200g boiled",
+      "Spinach": "200g",
+      "Eggs": "4",
+      "Lebanesse bread/naan": "2 portions",
+      "Feta-like cheese": "75g"
+    },
+
+  "Italian salad with sausage": {
+      "Potatoes": "400g",
+      "Ciabatta": "1 piece (small)",
+      "Vegan sausages": "4 pieces",
+      "Tomatoes": "2",
+      "Salad of some kind": "60g",
+      "Red pesto": "20g"
+     },
+
+  "White fish with Orzo": {
+      "Venkel": "1",
+      "Tomatoes": "2",
+      "Onion": "1",
+      "Garlic": "1",
+      "White fish": "2 pieces",
+      "Orzo pasta": "170g"
+    },
+
+  "Pasta with Salmon": {
+      "Garlic": "1",
+      "Tomatoes": "2",
+      "Spaghetti": "180g",
+      "Courgette": "1",
+      "Salmon": "2 pieces",
+      "Green pesto": "40g",
+      "Buterrsquash": "1 (optional)
+    },
+
+    "Kapsalon": {
+      "Potatoes": "500g",
+      "Garlic": "1",
+      "Tomatoes": "2",
+      "Svogunu laiskai": "2 roots",
+      "Vegan cream": "75g",
+      "Chicken": "220g",
+      "Salad of some kind": "100g"
+    },
+
+    "Jambalaya": {
+        "Onion": "1",
+        "Garlic": "1",
+        "Paprika": "1",
+        "Green beans": "200g",
+        "Passata": "200g",
+        "Rice": "170g",
+        "Chicken or vegan equivalent": "200g"
+      } 
+  }
+
+}
+
   }
