@@ -212,6 +212,75 @@
         "Passata": "50ml",
         "Fermented cabage": "1pack",
         "Vegan sausage": "2 big or 4 small"
-      }
-}
+      },
 
+    "Fish with broccoli": {
+        "Broccoli": "1",
+        "Garlic": "2",
+        "Ginger": "4cm",
+        "Salmon": "2",
+        "Rice": "170g"
+      },
+
+    "Israeli sandwiches": {
+        "Pita bread": "2-4",
+        "Aubergine": "1",
+        "Potatoes": "300g",
+        "Eggs": "2",
+        "Tomatoes": "2",
+        "Yoghurt": "100g",
+        "Chutney": "50g"
+      },
+
+    "Courgette-leak soup": {
+        "Courgette": "1",
+        "Leak": "1",
+        "Garllic": "2",
+        "Green pesto": "30g",
+        "Vegan cream": "100g",
+        "Bread": "1 small"
+        },
+
+    "Huevos-rancheros": {
+        "Tortlilia": "2",
+        "Canneli beans": "1can",
+        "Garllic": "2",
+        "Svogunu laiskai": "10g",
+        "Canned tomatoes": "1 can",
+        "Eggs": "4",
+        "Cheese": "100g",
+        "Avocado": "1",
+        "Vegan cream": "50g"
+        },
+
+    "Meet with potatoe mash": {
+        "Onion": "1",
+        "Potatoes": "300g",
+        "Carrots": "2",
+        "Green beans": "150g",
+        "Meat": "2 pieces"
+      },
+
+    "Forest stew": {
+      "Potatoes": "500g",
+      "Mushrooms": "250g",
+      "Root vegetable": "200g",
+      "Onion": "2",
+      "Garlic": "2",
+      "Passata": "150g",
+      "Chutney": "80g",
+      "Thyme": "5g",
+      "Hard cheese": "50g"
+    },
+
+
+    "Halumi spaghetti": {
+      "Paprika": "1",
+      "Courgette": "1",
+      "Garlic": "2",
+      "Onion": "1",
+      "Halloumi": "200g",
+      "Passata": "200g",
+      "Spaghetti": "180g"
+    }
+}
