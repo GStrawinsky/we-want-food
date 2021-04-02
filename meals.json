@@ -274,7 +274,6 @@
       "Hard cheese": "50g"
     },
 
-
     "Halumi spaghetti": {
       "Paprika": "1",
       "Courgette": "1",
@@ -283,5 +282,65 @@
       "Halloumi": "200g",
       "Passata": "200g",
       "Spaghetti": "180g"
-    }
+    },
+  
+    "Pasta with aubergine": {
+      "Onion": "1",
+      "Garlic": "1",
+      "Aubergine": "1",
+      "Sundried tomatoes": "60g",
+      "Pasta": "180g",
+      "Paprika poweder": "5g",
+      "Vegan cream":  "100ml",
+      "Rucola": "60g",
+      "Cheese": "50g"
+    },
+
+  "Tofu Tika masala": {
+      "Brocoli": "1",
+      "Onion": "1",
+      "Garlic": "2",
+      "Ginger": "3cm",
+      "Rice": "170g",
+      "Tumeric": "1g",
+      "Garam masala": "3g",
+      "Passata": "100g",
+      "Tofu": "140g",
+      "Coconut milk": "250ml"
+    },
+
+  "Fish with stompot": {
+      "Potatoes": "400g",
+      "Onion": "1",
+      "Garlic": "1",
+      "Cherry tomatoes": "250g",
+      "Soya sauce": "20ml",
+      "White fish": "2",
+      "Spinach": "200g" 
+   },
+
+  "Spinach-coconut curry": {
+      "Onion": "1",
+      "Garlic": "2",
+      "Tomatoe": "1",
+      "Tumeric": "2g",
+      "Rice": "170g",
+      "Grated coconut": "10g",
+      "Nuts": "20g",
+      "Coconut milk": "100ml",
+      "Eggs": "2",
+      "Spinach": "200g"
+    },
+
+  "Liver with egg-fried rice": {  
+      "Liver": "300g",
+      "Rice": "180g",
+      "Bean sprouts": "100g",
+      "Peas": "50g",
+      "Eggs": "2",
+      "Vegan cream": "150g",
+      "Garlic": "2",
+      "Onion": "1"  
+  }
+
 }
