@@ -128,10 +128,10 @@
     },
   
     "Kotlet": {
-        "Sweet potates": "500g",
+        "Sweet potatoes": "500g",
         "Potatoes": "200g",
         "Garlic": "1 clove",
-        "Svogunu laiskai": "4 roots",
+        "Spring onions": "4 roots",
         "Green beens": "300g",
         "Vegan or meat kotlet": "2 pieces"
     },
@@ -180,7 +180,7 @@
       "Potatoes": "500g",
       "Garlic": "1",
       "Tomatoes": "2",
-      "Svogunu laiskai": "2 roots",
+      "Spring onions": "2 roots",
       "Vegan cream": "75g",
       "Chicken": "220g",
       "Salad of some kind": "100g"
@@ -230,8 +230,9 @@
         "Potatoes": "300g",
         "Eggs": "2",
         "Tomatoes": "2",
-        "Yoghurt": "100g",
-        "Chutney": "50g"
+        "Garlic": "2",
+        "Chutney": "50g",
+        "Carrots": "1"
       },
 
     "Courgette-leak soup": {
@@ -247,7 +248,7 @@
         "Tortlilia": "2",
         "Canneli beans": "1can",
         "Garllic": "2",
-        "Svogunu laiskai": "10g",
+        "Spring onions": "10g",
         "Canned tomatoes": "1 can",
         "Eggs": "4",
         "Cheese": "100g",
@@ -255,7 +256,7 @@
         "Vegan cream": "50g"
         },
 
-    "Meet with potatoe mash": {
+    "Meet with potato mash": {
         "Onion": "1",
         "Potatoes": "300g",
         "Carrots": "2",
@@ -275,7 +276,7 @@
       "Hard cheese": "50g"
     },
 
-    "Halumi spaghetti": {
+    "Halloumi spaghetti": {
       "Paprika": "1",
       "Courgette": "1",
       "Garlic": "2",
@@ -324,7 +325,7 @@
       "Onion": "1",
       "Garlic": "2",
       "Tomatoe": "1",
-      "Tumeric": "2g",
+      "Turmeric": "2g",
       "Rice": "170g",
       "Grated coconut": "10g",
       "Nuts": "20g",
@@ -342,6 +343,86 @@
       "Vegan cream": "150g",
       "Garlic": "2",
       "Onion": "1"  
-  }
+  },
 
+  "Indian curry with venkel and mais": {  
+      "Onion": "1",
+      "Ginger": "2cm",
+      "Turmeric": "2cm",
+      "Garlic": "1",
+      "Venkel": "200g",
+      "mustard": "2spns",
+      "Tomatoe pure": "200g",
+      "Rice": "170g",
+      "Coconut milk": "250ml",
+      "Corn in can": "1can",
+      "Naan": "2pieces",
+      "Yoghurt": "75g"
+  },
+
+  "Enchilada": {  
+      "Onion": "1",
+      "Spring Onion": "4",
+      "Black beans": "1 can",
+      "Tortillia": "4",
+      "Garlic": "2",
+      "Tomatoe": "3",
+      "Tomatoe Puree": "300g",
+      "Bbq sauce": "50g",
+      "Lemon": "1",
+      "Soya cream": "100g",
+      "Cheese": "50g",
+      "Paprika": "1"
+  },
+
+  "Melanzane": {  
+      "Aubergine": "1",
+      "Onion": "1",
+      "Garlic": "1",
+      "Canned Tomatoes": "200g",
+      "Tomatoe Pasta": "200g",
+      "Mozzarella": "1",
+      "Ciabatta": "2"
+  },
+
+  "Pearl Cuos Cous Halloumi Salad": {  
+      "Venkel": "1",
+      "Nectarine": "2",
+      "Pearl cous cous": "85g",
+      "Lentils": "100g",
+      "Mint": "10g",
+      "Halloumi": "1 pack",
+      "Ruccola": "60g"
+  },
+
+  "Curry Noodle Soup": {  
+      "Garlic": "1",
+      "Onion": "1",
+      "Curry Spices": "1 spoon",
+      "Zucchini": "1/2",
+      "Broccoli": "1/2",
+      "Mushrooms": "200g",
+      "Coconut milk": "250ml",
+      "Udon noodles": "200g"
+  },
+
+  "Rice bowl": {  
+      "Pan dan": "170g",
+      "Cucumber": "1/2",
+      "Garlic": "1",
+      "Mushrooms": "125g",
+      "Spinach": "80g",
+      "Skewer Meat (or alternative)": "200g",
+      "Eggs": "2"
+  },
+
+  "Thai green curry": {  
+      "Rice": "150g",
+      "Thai green paste": "1/2 pack",
+      "Zucchini": "1/2",
+      "Broccoli": "1/2",
+      "Mushrooms": "100g",
+      "Tofu": "200g",
+      "Coconut milk": "250ml"
+  }
 }
