@@ -11,7 +11,7 @@ def give_meals(data_json, n):
     return meal
 
 
-def give_ingredients(data_json, meal):
+def give_ingredients(data_json: str, meal: str) -> dict[str, str]:
     with open(data_json) as f:
         data = json.load(f)
 
