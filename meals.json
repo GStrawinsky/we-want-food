@@ -122,9 +122,9 @@
         "Arborio rice": "150g",
         "Vegan sausage": 2,
         "Fennel": 1,
-        "Soya cream": "150g",
+        "Cream": "150g",
         "Cheese": "80g",
-        "Onion/leak": 1
+        "Onion": "1"
     },
   
     "Kotlet": {
@@ -424,5 +424,53 @@
       "Mushrooms": "100g",
       "Tofu": "200g",
       "Coconut milk": "250ml"
-  }
+  },
+
+  "Enchiladas": {  
+    "Garlic": "2",
+    "Onion": "1",
+    "Paprika": "1",
+    "Spring onions": "4",
+    "Black beans": "1 can",
+    "Tortilias": "4",
+    "Tomatoes": "3",
+    "Tomatoe pure": "100g",
+    "BBQ sauce": "1 spoon",
+    "Lime": "1",
+    "Cream": "100g",
+    "Cheese": "50g"
+},
+
+"Pasta with red pesto and feta": {  
+  "Onion": "1",
+  "Paprika": "1",
+  "Cochiglie/fussili": "180g",
+  "Tomatoes": "2",
+  "Feta": "100g",
+  "Basilicum": "5g",
+  "Red pesto": "80g",
+  "Ruccola/salad": "60g"
+},
+
+"Chicken stroganof": {  
+  "Onion": "1",
+  "Paprika": "1,5",
+  "Garlic": "1",
+  "Tomatoe pure": "50g",
+  "Chicken": "200g",
+  "Mushrooms": "125g",
+  "Rice": "170g",
+  "Cream": "100g"
+},
+
+"Rissoto with buffala mozzarela and red pesto": {  
+  "Onion": "0,5",
+  "Basil": "5g",
+  "Garlic": "2",
+  "Leak": "1",
+  "Tomatoes": "3",
+  "BUffala mozzarela": "125g",
+  "Arborio rice": "150g",
+  "Cheese": "25g"
+}
 }
