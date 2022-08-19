@@ -1,28 +1,21 @@
-# I give the list of dict keys, 
-# I get out a complete list of groceries
-# get all keys
-
+from collections import defaultdict
 import json
-from operator import gt
-import typing
+from domain import Recipe
 
-def merge_produce_lists(meals: list[str]) -> dict[str, str]:
-    with open("meals.json") as f:
-        data = json.load(f)
+## TODO: could be in a class with all rolled recipes cached
+def merge_produce_lists(data, meal_indices: list[str]) -> dict :
 
-    grocieries: list[dict[str, str]] = [data[i] for i in meals]
+    recipes = [Recipe(i, data[i]["name"], data[i]["groceries"]) for i in meal_indices]
 
-    grocery_list = {}
+    grocery_list = defaultdict(list)
 
-    # d is a dict
-    for d in grocieries:
-        # k is a key value pair
-        produces = d.keys()
-        for p in produces:
-            if p in grocery_list:
-                grocery_list[p] = [grocery_list[p], d[p]]
+    for d in recipes:
+        groceries = d.groceries
+        for g in groceries.keys():
+            if g in grocery_list:
+                grocery_list[g].append(groceries[g])
             else:
-                grocery_list[p] = d[p]
+                grocery_list[g] = [groceries[g]]
 
 
     return grocery_list

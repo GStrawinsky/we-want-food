@@ -1,18 +1,12 @@
 import json
 import random
+from domain import Recipe
 
 
-def give_meals(data_json, n):
-    with open(data_json) as f:
-        data = json.load(f)
+def give_meals(data, n) -> list[Recipe]:
 
-    meal = random.sample(list(data.keys()), k=n)
+    meal_indices = random.sample(list(data.keys()), k=n)
 
-    return meal
+    recipes = [Recipe(i, data[i]["name"], data[i]["groceries"]) for i in meal_indices]
 
-
-def give_ingredients(data_json: str, meal: str) -> dict[str, str]:
-    with open(data_json) as f:
-        data = json.load(f)
-
-    return data[meal]
+    return recipes

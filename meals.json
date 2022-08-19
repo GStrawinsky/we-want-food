@@ -1,39 +1,53 @@
 {
-    "Stir-fry": {
-      "Rice": "150g",
-      "Tofu": "200g",
-      "Cabbage": 1,
-      "Carrot": 2,
-      "Broccoli": 0.3
+    "1": { 
+      "name": "Stir-fry",
+      "groceries": {
+        "Rice": "150g",
+        "Tofu": "200g",
+        "Cabbage": 1,
+        "Carrot": 2,
+        "Broccoli": 0.3
+      }
     },
 
-    "Fish bake": {
+    "2": {
+      "name": "Fish bake",
+      "groceries": {
         "Salmon": "200g",
         "Potatoes": "200g",
         "Sweet potatoes": "200g",
         "leak": 1,
         "Passata": "250g"
-    },
+    }
+  },
 
-    "Red shakshuka": {
+    "3": {
+      "name": "Red shakshuka",
+      "groceries": {
         "Eggs": 4,
         "Paprika": 1,
         "Lentils": "100g",
         "Onion": 1,
         "Garlic cloves": 2,
         "Passata": "250g"
-    },
+    }
+  },
 
-    "Vegan Burgers": {
+    "4": {
+      "name": "Vegan Burgers",
+      "groceries": {
         "Vegan patties": 2,
         "Buns": 2,
         "Onions": 1,
         "Some sauce": "2 tbs",
         "Cheese": "80g",
         "Sweet potatoes": "500g"
-    },
+    }
+  },
 
-    "Nachos": {
+    "5": {
+      "name": "Nachos",
+      "groceries": {
         "Nacho chips": "1 pack",
         "Kidney beans": "1 can",
         "Passata": "250g",
@@ -43,44 +57,60 @@
         "Onion": 2, 
         "Vegan mince": "Optional - 200g",
         "Cheese": "80g"
-    },
+    }
+  },
 
-    "Bolognese": {
+    "6": {
+      "name": "Bolognese",
+      "groceries": {
         "Pasta": "150g",
         "Vegan mince": "200g",
         "Passata": "250g",
         "Onion": 1,
         "Carrot": "200g"
-    },
+    }
+  },
 
-    "Chili no carne": {
+    "7": {
+      "name": "Chili no carne",
+      "groceries": {
         "Rice": "150g",
         "Vegan mince": "200g",
         "Passata": "250g",
         "Onion": 1,
         "Carrot": "200g",
-        "Kidney beans": "1 can"
-    },
+        "Kidney beans": "1 can",
+        "Paprika": 1
+    }
+  },
     
-    "Saag tofu": {
+    "8": {
+      "name": "Saag tofu",
+      "groceries": {
         "Spinach": "300g",
         "Tofu": "200g",
         "Potatoes": "250g",
         "Onion": 1,
         "Rice": "150g",
         "Coconut milk": "200g"
-    },
+    }
+  },
 
-    "Dahl": {
+    "9": {
+      "name": "Dahl",
+      "groceries": {
         "Naan": 2,
         "Red lentils": "100g",
         "Passata": "250g",
         "Onion": 1,
         "Sweet potatoes": "200g",
         "Coconut milk": "200g"
-    },
+    }
+  },
 
-    "Fake ramen": {
+    "10": {
+      "name": "Fake ramen",
+      "groceries": {
         "Noodles": "100g",
         "Tofu": "200g",
         "Passata": "50g",
@@ -88,9 +118,12 @@
         "Broccoli": 0.3,
         "Coconut milk": "100g",
         "Eggs": 2
-    },
+    }
+  },
 
-    "Chicken Tikka Masala": {
+    "11": {
+      "name": "Chicken Tikka Masala",
+      "groceries": {
         "Chicken": "200g",
         "Rice": "150g",
         "Passata": "250g",
@@ -98,17 +131,22 @@
         "Coconut milk": "200g",
         "Yoghurt": "100g",
         "Paprika": "1"
-    },
-
-    "Crispy chilli tofu": {
+    }
+  },
+    "12": {
+      "name": "Crispy chilli tofu",
+      "groceries": {
         "Tofu": "300g",
         "Pineapple": "1 can",
         "Passata": "100g",
         "Pineapple juice": "300ml",
         "Paprika": 1
-    },
+    }
+  },
 
-    "Fajitas": {
+   "13": {
+    "name": "Fajitas",
+    "groceries": {
         "Wraps": 4,
         "Paprika": 2,
         "Kidney beans": "1 can",
@@ -116,47 +154,36 @@
         "Avocado": 1,
         "Onion": 1,
         "Tomatoes": 1
-    },
+    }
+  },
 
-    "Rissoto": {
+    "14": {
+      "name": "Rissoto",
+      "groceries": {
         "Arborio rice": "150g",
         "Vegan sausage": 2,
         "Fennel": 1,
         "Cream": "150g",
         "Cheese": "80g",
         "Onion": "1"
-    },
+    }
+  },
   
-    "Kotlet": {
-        "Sweet potatoes": "500g",
-        "Potatoes": "200g",
-        "Garlic": "1 clove",
-        "Spring onions": "4 roots",
-        "Green beens": "300g",
-        "Vegan or meat kotlet": "2 pieces"
-    },
-
-  "Green shakshuka": {
-      "Onions": "1",
-      "Garlic": "2 pieces",
-      "Green paprika": "1",
-      "Lentils": "100g dry or 200g boiled",
-      "Spinach": "200g",
-      "Eggs": "4",
-      "Lebanesse bread/naan": "2 portions",
-      "Feta-like cheese": "75g"
-    },
-
-  "Italian salad with sausage": {
+  "15": {
+    "name": "Italian salad with sausage",
+    "groceries": {
       "Potatoes": "400g",
       "Ciabatta": "1 piece (small)",
       "Vegan sausages": "4 pieces",
       "Tomatoes": "2",
       "Salad of some kind": "60g",
       "Red pesto": "20g"
-     },
+     }
+    },
 
-  "White fish with Orzo": {
+  "16": {
+    "name": "White fish with Orzo",
+    "groceries": {
       "Venkel": "1",
       "Tomatoes": "2",
       "Onion": "1",
@@ -164,9 +191,12 @@
       "White fish": "2 pieces",
       "Orzo pasta": "170g",
       "Courgette or paprika": "1"
-    },
+    }
+  },
 
-  "Pasta with Salmon": {
+  "17": {
+    "name": "Pasta with Salmon",
+    "groceries": {
       "Garlic": "1",
       "Tomatoes": "2",
       "Spaghetti": "180g",
@@ -174,9 +204,12 @@
       "Salmon": "2 pieces",
       "Green pesto": "40g",
       "Buterrsquash": "1 (optional)"
-    },
+    }
+  },
 
-    "Kapsalon": {
+   "18": { 
+    "name": "Kapsalon",
+    "groceries": {
       "Potatoes": "500g",
       "Garlic": "1",
       "Tomatoes": "2",
@@ -184,20 +217,26 @@
       "Vegan cream": "75g",
       "Chicken": "220g",
       "Salad of some kind": "100g"
-    },
+    }
+  },
 
-    "Jambalaya": {
-        "Onion": "1",
-        "Garlic": "1",
-        "Paprika": "1",
-        "Green beans": "200g",
-        "Passata": "200g",
-        "Rice": "170g",
-        "Courgette": "1",
-        "Chicken or vegan equivalent": "200g"
+   "19": {
+    "name": "Jambalaya",
+    "groceries": {
+          "Onion": "1",
+          "Garlic": "1",
+          "Paprika": "1",
+          "Green beans": "200g",
+          "Passata": "200g",
+          "Rice": "170g",
+          "Courgette": "1",
+          "Chicken or vegan equivalent": "200g"
+        }
       },
 
-    "Tomatoe paprika soup": {
+    "20": {
+      "name": "Tomatoe paprika soup",
+      "groceries": {
         "Onion": "1",
         "Garlic": "2 cloves",
         "Tomatoes": "4",
@@ -206,25 +245,34 @@
         "Lentils" : "150g",
         "Vegan cream": "100g",
         "Sandwich alongside": "2"
-      },
+      }
+    },
 
-    "Cabage saussage stew": {
+    "21": {
+      "name": "Cabage saussage stew",
+      "groceries": {
         "Onion": "1",
         "Potatoes": "5",
         "Passata": "50ml",
         "Fermented cabage": "1pack",
         "Vegan sausage": "2 big or 4 small"
-      },
+      }
+    },
 
-    "Fish with broccoli": {
+    "22": {
+      "name": "Fish with broccoli",
+      "groceries": {
         "Broccoli": "1",
         "Garlic": "2",
         "Ginger": "4cm",
         "Salmon": "2",
         "Rice": "170g"
-      },
+      }
+    },
 
-    "Israeli sandwiches": {
+    "23": {
+      "name": "Israeli sandwiches",
+      "groceries": {
         "Pita bread": "2-4",
         "Aubergine": "1",
         "Potatoes": "300g",
@@ -233,18 +281,12 @@
         "Garlic": "2",
         "Chutney": "50g",
         "Carrots": "1"
-      },
+      }
+    },
 
-    "Courgette-leak soup": {
-        "Courgette": "1",
-        "Leak": "1",
-        "Garllic": "2",
-        "Green pesto": "30g",
-        "Vegan cream": "100g",
-        "Bread": "1 small"
-        },
-
-    "Huevos-rancheros": {
+    "24": {
+      "name": "Huevos-rancheros",
+      "groceries": {
         "Tortlilia": "2",
         "Canneli beans": "1can",
         "Garllic": "2",
@@ -254,51 +296,66 @@
         "Cheese": "100g",
         "Avocado": "1",
         "Vegan cream": "50g"
-        },
+        }
+      },
 
-    "Meet with potato mash": {
+    "25": {
+      "name": "Meet with potato mash",
+      "groceries": {
         "Onion": "1",
         "Potatoes": "300g",
         "Carrots": "2",
         "Green beans": "150g",
         "Meat": "2 pieces"
-      },
-
-    "Forest stew": {
-      "Potatoes": "500g",
-      "Mushrooms": "250g",
-      "Root vegetable": "200g",
-      "Onion": "2",
-      "Garlic": "2",
-      "Passata": "150g",
-      "Chutney": "80g",
-      "Thyme": "5g",
-      "Hard cheese": "50g"
+      }
     },
 
-    "Halloumi spaghetti": {
-      "Paprika": "2",
-      "Courgette": "1",
-      "Garlic": "2",
-      "Onion": "1",
-      "Halloumi": "200g",
-      "Passata": "200g",
-      "Spaghetti": "180g"
+    "26": {
+      "name": "Forest stew",
+      "groceries": {
+        "Potatoes": "500g",
+        "Mushrooms": "250g",
+        "Root vegetable": "200g",
+        "Onion": "2",
+        "Garlic": "2",
+        "Passata": "150g",
+        "Chutney": "80g",
+        "Thyme": "5g",
+        "Hard cheese": "50g"
+      }
+    },
+
+    "27": {
+      "name": "Halloumi spaghetti",
+      "groceries": {
+        "Paprika": "2",
+        "Courgette": "1",
+        "Garlic": "2",
+        "Onion": "1",
+        "Halloumi": "200g",
+        "Passata": "200g",
+        "Spaghetti": "180g"
+      }
     },
   
-    "Pasta with aubergine": {
-      "Onion": "1",
-      "Garlic": "1",
-      "Aubergine": "1",
-      "Sundried tomatoes": "60g",
-      "Pasta": "180g",
-      "Paprika poweder": "5g",
-      "Vegan cream":  "100ml",
-      "Rucola": "60g",
-      "Cheese": "50g"
+    "28": {
+      "name": "Pasta with aubergine",
+      "groceries": {
+        "Onion": "1",
+        "Garlic": "1",
+        "Aubergine": "1",
+        "Sundried tomatoes": "60g",
+        "Pasta": "180g",
+        "Paprika poweder": "5g",
+        "Vegan cream":  "100ml",
+        "Rucola": "60g",
+        "Cheese": "50g"
+      }
     },
 
-  "Tofu Tika masala": {
+  "29": {
+    "name": "Tofu Tika masala",
+    "groceries": {
       "Brocoli": "1",
       "Onion": "1",
       "Garlic": "2",
@@ -309,9 +366,12 @@
       "Passata": "100g",
       "Tofu": "140g",
       "Coconut milk": "250ml"
-    },
+    }
+  },
 
-  "Fish with stompot": {
+  "30": {
+    "name": "Fish with stompot",
+    "groceries": {
       "Potatoes": "400g",
       "Onion": "1",
       "Garlic": "1",
@@ -319,9 +379,12 @@
       "Soya sauce": "20ml",
       "White fish": "2",
       "Spinach": "200g" 
-   },
+   }
+  },
 
-  "Spinach-coconut curry": {
+  "31": {
+    "name": "Spinach-coconut curry",
+    "groceries": {
       "Onion": "1",
       "Garlic": "2",
       "Tomatoe": "1",
@@ -332,9 +395,12 @@
       "Coconut milk": "100ml",
       "Eggs": "2",
       "Spinach": "200g"
-    },
+    }
+  },
 
-  "Liver with egg-fried rice": {  
+  "32": {
+    "name": "Liver with egg-fried rice",
+    "groceries": {  
       "Liver": "300g",
       "Rice": "180g",
       "Bean sprouts": "100g",
@@ -343,9 +409,12 @@
       "Vegan cream": "150g",
       "Garlic": "2",
       "Onion": "1"  
-  },
+  }
+},
 
-  "Indian curry with venkel and mais": {  
+  "33": {
+    "name": "Indian curry with venkel and mais",
+    "groceries": {  
       "Onion": "1",
       "Ginger": "2cm",
       "Turmeric": "2cm",
@@ -358,9 +427,12 @@
       "Corn in can": "1can",
       "Naan": "2pieces",
       "Yoghurt": "75g"
-  },
+  }
+},
 
-  "Enchilada": {  
+  "34": {
+    "name": "Enchilada",
+    "groceries": {  
       "Onion": "1",
       "Spring Onion": "4",
       "Black beans": "1 can",
@@ -373,9 +445,12 @@
       "Soya cream": "100g",
       "Cheese": "50g",
       "Paprika": "1"
-  },
+  }
+},
 
-  "Melanzane": {  
+  "35": {
+    "name": "Melanzane",
+    "groceries": {  
       "Aubergine": "1",
       "Onion": "1",
       "Garlic": "1",
@@ -383,9 +458,12 @@
       "Tomatoe Pasta": "200g",
       "Mozzarella": "1",
       "Ciabatta": "2"
-  },
+  }
+},
 
-  "Pearl Cuos Cous Halloumi Salad": {  
+  "36": {
+    "name": "Pearl Cuos Cous Halloumi Salad",
+    "groceries": {  
       "Venkel": "1",
       "Nectarine": "2",
       "Pearl cous cous": "85g",
@@ -393,9 +471,12 @@
       "Mint": "10g",
       "Halloumi": "1 pack",
       "Ruccola": "60g"
-  },
+  }
+},
 
-  "Curry Noodle Soup": {  
+  "37": {
+    "name": "Curry Noodle Soup",
+    "groceries": {  
       "Garlic": "1",
       "Onion": "1",
       "Curry Spices": "1 spoon",
@@ -404,19 +485,12 @@
       "Mushrooms": "200g",
       "Coconut milk": "250ml",
       "Udon noodles": "200g"
-  },
+  }
+},
 
-  "Rice bowl": {  
-      "Pan dan": "170g",
-      "Cucumber": "1/2",
-      "Garlic": "1",
-      "Mushrooms": "125g",
-      "Spinach": "80g",
-      "Skewer Meat (or alternative)": "200g",
-      "Eggs": "2"
-  },
-
-  "Thai green curry": {  
+  "38": {
+    "name": "Thai green curry",
+    "groceries": {  
       "Rice": "150g",
       "Thai green paste": "1/2 pack",
       "Zucchini": "1/2",
@@ -424,53 +498,48 @@
       "Mushrooms": "100g",
       "Tofu": "200g",
       "Coconut milk": "250ml"
+  }
+},
+
+  "39": {
+    "name": "Pasta with red pesto and feta",
+    "groceries": {  
+      "Onion": "1",
+      "Paprika": "1",
+      "Cochiglie/fussili": "180g",
+      "Tomatoes": "2",
+      "Feta": "100g",
+      "Basilicum": "5g",
+      "Red pesto": "80g",
+      "Ruccola/salad": "60g"
+    }
   },
 
-  "Enchiladas": {  
-    "Garlic": "2",
-    "Onion": "1",
-    "Paprika": "1",
-    "Spring onions": "4",
-    "Black beans": "1 can",
-    "Tortilias": "4",
-    "Tomatoes": "3",
-    "Tomatoe pure": "100g",
-    "BBQ sauce": "1 spoon",
-    "Lime": "1",
-    "Cream": "100g",
-    "Cheese": "50g"
-},
+  "40": {
+    "name": "Chicken stroganof",
+    "groceries": {  
+      "Onion": "1",
+      "Paprika": "1,5",
+      "Garlic": "1",
+      "Tomatoe pure": "50g",
+      "Chicken": "200g",
+      "Mushrooms": "125g",
+      "Rice": "170g",
+      "Cream": "100g"
+    }
+  },
 
-"Pasta with red pesto and feta": {  
-  "Onion": "1",
-  "Paprika": "1",
-  "Cochiglie/fussili": "180g",
-  "Tomatoes": "2",
-  "Feta": "100g",
-  "Basilicum": "5g",
-  "Red pesto": "80g",
-  "Ruccola/salad": "60g"
-},
-
-"Chicken stroganof": {  
-  "Onion": "1",
-  "Paprika": "1,5",
-  "Garlic": "1",
-  "Tomatoe pure": "50g",
-  "Chicken": "200g",
-  "Mushrooms": "125g",
-  "Rice": "170g",
-  "Cream": "100g"
-},
-
-"Rissoto with buffala mozzarela and red pesto": {  
-  "Onion": "0,5",
-  "Basil": "5g",
-  "Garlic": "2",
-  "Leak": "1",
-  "Tomatoes": "3",
-  "BUffala mozzarela": "125g",
-  "Arborio rice": "150g",
-  "Cheese": "25g"
-}
+  "41": {
+    "name": "Rissoto with buffala mozzarela and red pesto",
+    "groceries": {  
+      "Onion": "0,5",
+      "Basil": "5g",
+      "Garlic": "2",
+      "Leak": "1",
+      "Tomatoes": "3",
+      "BUffala mozzarela": "125g",
+      "Arborio rice": "150g",
+      "Cheese": "25g"
+    }
+  }
 }
