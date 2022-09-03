@@ -3,6 +3,7 @@ import sys
 import retrieval
 import grocery_list
 import json
+import telegram_bot
 
 def run(args):
     
@@ -14,11 +15,12 @@ def run(args):
                 print("\t--{}: {}".format(ingredient, quantity))
 
 
-def run_grocery_list(gl):
+def run_grocery_list(indices):
+    grocery_object = grocery_list.GroceryList(DATA, indices)
+    groceries_parsed = grocery_object.get()
+    telegram_bot.send_grocery_list(groceries_parsed)
+    print(groceries_parsed) 
 
-    grocery_dict = grocery_list.merge_produce_lists(DATA, gl)
-    for ingredient, quantity in grocery_dict.items():
-        print("\t--{}: {}".format(ingredient, quantity)) 
 
 def validate(args):
     if args.meals is not None and 0 > args.meals:

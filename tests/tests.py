@@ -1,10 +1,8 @@
 import unittest
-from grocery_list import merge_produce_lists
+from grocery_list import GroceryList
 
 from retrieval import give_meals
 import json
-from domain import Recipe
-
 
 class Test(unittest.TestCase):
 
@@ -24,18 +22,18 @@ class Test(unittest.TestCase):
         names = [r.name for r in answer]
         groceries = [r.groceries for r in answer]
 
-        self.assertSequenceEqual(indices, ["1", "2"])
-        self.assertSequenceEqual(names, ["Test1", "Test2"])
-        self.assertSequenceEqual(groceries, [{"bread": "1", "salmon": "100g"}, {"bread": "2", "salmon": "200g"}])
+        self.assertListEqual(indices, ["1", "2"])
+        self.assertListEqual(names, ["Test1", "Test2"])
+        self.assertListEqual(groceries, [{"bread": "1", "salmon": "100g"}, {"bread": "2", "salmon": "200g"}])
 
     def test_2(self):
     
-        answer = merge_produce_lists(self.data, ["1","2"])
+        grocery_obj = GroceryList(self.data, ["1", "2"])
+        answer = grocery_obj.merge_produce_lists()
 
         expected = {"bread": ["1", "2"], "salmon": ["100g", "200g"]}
 
         self.assertDictEqual(answer, expected)
-
 
 
 

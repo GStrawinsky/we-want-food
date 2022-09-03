@@ -1,6 +1,5 @@
-import json
 import random
-from domain import Recipe
+from recipe import Recipe
 
 
 def give_meals(data, n) -> list[Recipe]:
