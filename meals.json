@@ -541,5 +541,36 @@
       "Arborio rice": "150g",
       "Cheese": "25g"
     }
+  },
+
+  "42": {
+    "name": "Saussage-potatoe stew",
+    "groceries": {  
+      "Onion": "1",
+      "Potatoes": "400g",
+      "Garlic": "2",
+      "Tomatoe Puree": "0,5 can",
+      "Mushrooms": "125g",
+      "Red paprika": "2",
+      "Sausage": "50g",
+      "Spring Onion": "5g",
+      "Vegan sour cream": "100g"
+    }
+  },
+
+  "43": {
+    "name": "Lentil stew",
+    "groceries": {  
+      "Aubergine": "1",
+      "Courgette": "1",
+      "Garlic": "3",
+      "Onion": "1",
+      "Mushrooms": "125g",
+      "Paprika": "1",
+      "Tomatoe Puree": "10g",
+      "Chopped tomatoes": "400g",
+      "Lentils": "205g (boiled) 100g (dry)",
+      "Bread": "2 pieces"
+    }
   }
 }
