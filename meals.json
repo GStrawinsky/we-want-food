@@ -34,14 +34,17 @@
   },
 
     "4": {
-      "name": "Vegan Burgers",
+      "name": "Burgers",
       "groceries": {
-        "Vegan patties": 2,
+        "Burger patties": 2,
         "Buns": 2,
         "Onions": 1,
         "Some sauce": "2 tbs",
         "Cheese": "80g",
-        "Sweet potatoes": "500g"
+        "Letuce": "50g",
+        "Cherry tomatoes": "50g",
+        "Pickles": "50g",
+        "Seeds": "25g"
     }
   },
 
@@ -55,7 +58,6 @@
         "Paprika": 1,
         "Tomatoe": 1,
         "Onion": 2, 
-        "Vegan mince": "Optional - 200g",
         "Cheese": "80g"
     }
   },
@@ -64,7 +66,6 @@
       "name": "Bolognese",
       "groceries": {
         "Pasta": "150g",
-        "Vegan mince": "200g",
         "Passata": "250g",
         "Onion": 1,
         "Carrot": "200g"
@@ -75,7 +76,6 @@
       "name": "Chili no carne",
       "groceries": {
         "Rice": "150g",
-        "Vegan mince": "200g",
         "Passata": "250g",
         "Onion": 1,
         "Carrot": "200g",
@@ -161,25 +161,14 @@
       "name": "Rissoto",
       "groceries": {
         "Arborio rice": "150g",
-        "Vegan sausage": 2,
+        "Ricotta": "100g",
         "Fennel": 1,
         "Cream": "150g",
         "Cheese": "80g",
         "Onion": "1"
     }
   },
-  
-  "15": {
-    "name": "Italian salad with sausage",
-    "groceries": {
-      "Potatoes": "400g",
-      "Ciabatta": "1 piece (small)",
-      "Vegan sausages": "4 pieces",
-      "Tomatoes": "2",
-      "Salad of some kind": "60g",
-      "Red pesto": "20g"
-     }
-    },
+
 
   "16": {
     "name": "White fish with Orzo",
@@ -230,7 +219,7 @@
           "Passata": "200g",
           "Rice": "170g",
           "Courgette": "1",
-          "Chicken or vegan equivalent": "200g"
+          "Chicken": "200g"
         }
       },
 
@@ -399,16 +388,14 @@
   },
 
   "32": {
-    "name": "Liver with egg-fried rice",
+    "name": "Liver",
     "groceries": {  
       "Liver": "300g",
-      "Rice": "180g",
       "Bean sprouts": "100g",
-      "Peas": "50g",
-      "Eggs": "2",
       "Vegan cream": "150g",
       "Garlic": "2",
-      "Onion": "1"  
+      "Onion": "1" ,
+      "Potatoes": "400g" 
   }
 },
 
