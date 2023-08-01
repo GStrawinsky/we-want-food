@@ -1,15 +1,4 @@
 {
-    "1": { 
-      "name": "Stir-fry",
-      "groceries": {
-        "Rice": "150g",
-        "Tofu": "200g",
-        "Cabbage": 1,
-        "Carrot": 2,
-        "Broccoli": 0.3
-      }
-    },
-
     "2": {
       "name": "Fish bake",
       "groceries": {
@@ -68,7 +57,8 @@
         "Pasta": "150g",
         "Passata": "250g",
         "Onion": 1,
-        "Carrot": "200g"
+        "Carrot": "200g",
+        "Meat": "200g"
     }
   },
 
@@ -105,19 +95,6 @@
         "Onion": 1,
         "Sweet potatoes": "200g",
         "Coconut milk": "200g"
-    }
-  },
-
-    "10": {
-      "name": "Fake ramen",
-      "groceries": {
-        "Noodles": "100g",
-        "Tofu": "200g",
-        "Passata": "50g",
-        "Sweet potatoes": "200g",
-        "Broccoli": 0.3,
-        "Coconut milk": "100g",
-        "Eggs": 2
     }
   },
 
@@ -193,19 +170,6 @@
       "Salmon": "2 pieces",
       "Green pesto": "40g",
       "Buterrsquash": "1 (optional)"
-    }
-  },
-
-   "18": { 
-    "name": "Kapsalon",
-    "groceries": {
-      "Potatoes": "500g",
-      "Garlic": "1",
-      "Tomatoes": "2",
-      "Spring onions": "2 roots",
-      "Vegan cream": "75g",
-      "Chicken": "220g",
-      "Salad of some kind": "100g"
     }
   },
 
@@ -289,12 +253,14 @@
       },
 
     "25": {
-      "name": "Meet with potato mash",
+      "name": "Meet with vegetables",
       "groceries": {
-        "Onion": "1",
-        "Potatoes": "300g",
-        "Carrots": "2",
-        "Green beans": "150g",
+        "Black olives": "1 handfull",
+        "Onion": 0.5,
+        "Tomatoe": 2,
+        "Lettuce": 1,
+        "Herbs": "1 handful",
+        "Balsamic": "2 spoons",
         "Meat": "2 pieces"
       }
     },
@@ -324,21 +290,6 @@
         "Halloumi": "200g",
         "Passata": "200g",
         "Spaghetti": "180g"
-      }
-    },
-  
-    "28": {
-      "name": "Pasta with aubergine",
-      "groceries": {
-        "Onion": "1",
-        "Garlic": "1",
-        "Aubergine": "1",
-        "Sundried tomatoes": "60g",
-        "Pasta": "180g",
-        "Paprika poweder": "5g",
-        "Vegan cream":  "100ml",
-        "Rucola": "60g",
-        "Cheese": "50g"
       }
     },
 
@@ -371,22 +322,6 @@
    }
   },
 
-  "31": {
-    "name": "Spinach-coconut curry",
-    "groceries": {
-      "Onion": "1",
-      "Garlic": "2",
-      "Tomatoe": "1",
-      "Turmeric": "2g",
-      "Rice": "170g",
-      "Grated coconut": "10g",
-      "Nuts": "20g",
-      "Coconut milk": "100ml",
-      "Eggs": "2",
-      "Spinach": "200g"
-    }
-  },
-
   "32": {
     "name": "Liver",
     "groceries": {  
@@ -399,23 +334,6 @@
   }
 },
 
-  "33": {
-    "name": "Indian curry with venkel and mais",
-    "groceries": {  
-      "Onion": "1",
-      "Ginger": "2cm",
-      "Turmeric": "2cm",
-      "Garlic": "1",
-      "Venkel": "200g",
-      "mustard": "2spns",
-      "Tomatoe pure": "200g",
-      "Rice": "170g",
-      "Coconut milk": "250ml",
-      "Corn in can": "1can",
-      "Naan": "2pieces",
-      "Yoghurt": "75g"
-  }
-},
 
   "34": {
     "name": "Enchilada",
@@ -435,19 +353,6 @@
   }
 },
 
-  "35": {
-    "name": "Melanzane",
-    "groceries": {  
-      "Aubergine": "1",
-      "Onion": "1",
-      "Garlic": "1",
-      "Canned Tomatoes": "200g",
-      "Tomatoe Pasta": "200g",
-      "Mozzarella": "1",
-      "Ciabatta": "2"
-  }
-},
-
   "36": {
     "name": "Pearl Cuos Cous Halloumi Salad",
     "groceries": {  
@@ -458,20 +363,6 @@
       "Mint": "10g",
       "Halloumi": "1 pack",
       "Ruccola": "60g"
-  }
-},
-
-  "37": {
-    "name": "Curry Noodle Soup",
-    "groceries": {  
-      "Garlic": "1",
-      "Onion": "1",
-      "Curry Spices": "1 spoon",
-      "Zucchini": "1/2",
-      "Broccoli": "1/2",
-      "Mushrooms": "200g",
-      "Coconut milk": "250ml",
-      "Udon noodles": "200g"
   }
 },
 
@@ -559,5 +450,35 @@
       "Lentils": "205g (boiled) 100g (dry)",
       "Bread": "2 pieces"
     }
+  },
+
+  "44": {
+    "name": "Ceasar salad",
+    "groceries": {
+	"Lettuce": 1,
+	"Chicken/salmon": "300g",
+	"Hard cheese": "50g",
+	"Anchiuvies": 4,
+	"Mustard": "5g",
+	"Lemon Juice": "2 spoons",
+	"Egg": 1,
+	"Garlic": 2
+	}
+},
+
+"45": {
+  "name": "Moroccan chicken",
+  "groceries": {
+    "Onion": 1,
+    "Tomatoe": 3,
+    "Herbs": "bunch",
+    "Dried apricots": 8,
+    "Cumin": "2 spoons",
+    "Pine nuts": "1 handfull",
+    "Chickpeas": "400g",
+    "Balsamic": "1 spoon",
+    "Chicken": "300g",
+    "Yoghurt": "150g"
   }
+}
 }
