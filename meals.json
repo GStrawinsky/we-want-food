@@ -135,7 +135,7 @@
   },
 
     "14": {
-      "name": "Rissoto",
+      "name": "Rissoto with fennel",
       "groceries": {
         "Arborio rice": "150g",
         "Ricotta": "100g",
@@ -168,8 +168,7 @@
       "Spaghetti": "180g",
       "Courgette": "1",
       "Salmon": "2 pieces",
-      "Green pesto": "40g",
-      "Buterrsquash": "1 (optional)"
+      "Green pesto": "40g"
     }
   },
 
@@ -335,24 +334,6 @@
 },
 
 
-  "34": {
-    "name": "Enchilada",
-    "groceries": {  
-      "Onion": "1",
-      "Spring Onion": "4",
-      "Black beans": "1 can",
-      "Tortillia": "4",
-      "Garlic": "2",
-      "Tomatoe": "3",
-      "Tomatoe Puree": "300g",
-      "Bbq sauce": "50g",
-      "Lemon": "1",
-      "Soya cream": "100g",
-      "Cheese": "50g",
-      "Paprika": "1"
-  }
-},
-
   "36": {
     "name": "Pearl Cuos Cous Halloumi Salad",
     "groceries": {  
@@ -479,6 +460,21 @@
     "Balsamic": "1 spoon",
     "Chicken": "300g",
     "Yoghurt": "150g"
+  }
+},
+
+"46": {
+  "name": "Fake paella with fish",
+  "groceries": {
+    "Rice": "170g",
+    "White fish": "300g",
+    "Eggs": 2,
+    "Corriander": "1 bunch",
+    "Onion": 1,
+    "Lemon Juice": 1,
+    "Madras paste": "2 spoons",
+    "Frozen peas": "1 handful",
+    "Yoghurt": "4 spoons"
   }
 }
 }
