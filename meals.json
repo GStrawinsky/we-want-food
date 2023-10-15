@@ -476,5 +476,37 @@
     "Frozen peas": "1 handful",
     "Yoghurt": "4 spoons"
   }
+},
+
+"47": {
+  "name": "Feta bake",
+  "groceries": {
+    "Feta": "1-2 blocks",
+    "Sweet potatoes or butternut squash": "300g",
+    "Zucchini": 1,
+    "Cherry tomatoes": "100 g",
+    "Onion": 2,
+    "Lemon": 1,
+    "Aubergine": "1"
+  }
+},
+
+"48": {
+  "name": "The Best-Dressed Bosh! Bowl",
+  "groceries": {
+    "Onions": 1,
+    "Garlic cloves": 4,
+    "Fennel seeds": "1 tbsp",
+    "Balsamic vinegar": "4 tbsp",
+    "Tomatoe pure": "3 tbps",
+    "Lentils / quinua / rice": "100g",
+    "Butternut squash": "350g",
+    "Fennel": 1,
+    "Cherry tomatoes": "200g",
+    "Paprika": 1,
+    "Courgette": 1,
+    "Avocado": 1,
+    "Spinach": "100g"
+  }
 }
 }
