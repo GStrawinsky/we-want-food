@@ -57,8 +57,10 @@
         "Pasta": "150g",
         "Passata": "250g",
         "Onion": 1,
-        "Carrot": "200g",
-        "Meat": "200g"
+        "Carrot": 2,
+        "Minced Meat": "200g",
+        "Celery": 1,
+        "Red Wine": "200ml"
     }
   },
 
@@ -507,6 +509,20 @@
     "Courgette": 1,
     "Avocado": 1,
     "Spinach": "100g"
+  }
+},
+
+"49": {
+  "name": "Chicken with Scandi potatoe salad",
+  "groceries": {
+    "Onions": 1,
+    "Fennel": 1,
+    "Potatoes": "300g",
+    "Sour cream": "4 tbsp",
+    "Lemon": "1",
+    "Chicken / salmon": "300g",
+    "Honey": "1 spoon",
+    "Mustard": "1 spoon"
   }
 }
 }
