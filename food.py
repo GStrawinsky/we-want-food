@@ -18,7 +18,7 @@ def run(args):
 def run_grocery_list(indices):
     grocery_object = grocery_list.GroceryList(DATA, indices)
     groceries_parsed = grocery_object.get()
-    telegram_bot.send_grocery_list(groceries_parsed)
+    # telegram_bot.send_grocery_list(groceries_parsed)
     print(groceries_parsed) 
 
 
